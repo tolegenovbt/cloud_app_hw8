@@ -1,0 +1,8 @@
+{
+    "appService.zipIgnorePattern": [
+        "node_modules{,/**}",
+        ".vscode{,/**}"
+    ],
+    "appService.defaultWebAppToDeploy": "/subscriptions/16890a3f-6cfb-4610-938e-e898b72ae52b/resourceGroups/hw5/providers/Microsoft.Web/sites/webappbekzat",
+    "appService.deploySubpath": "."
+}
